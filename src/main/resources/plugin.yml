@@ -1,0 +1,6 @@
+name: ArrowsPlus
+main: me.PimpDuck.ArrowsPlus.ArrowsPlus
+version: 2.0.0
+api-version: 1.21
+commands:
+  arrowsplus:
