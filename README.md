@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="logo.svg" alt="Arrows+" width="128">
   <h1>Arrows+</h1>
   <p><strong>Custom arrows and crossbow enchants for Paper 1.21.1</strong></p>
   <p>

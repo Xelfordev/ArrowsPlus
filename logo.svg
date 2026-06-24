@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2c3e50"/>
+      <stop offset="100%" stop-color="#17202a"/>
+    </linearGradient>
+  </defs>
+  <!-- Circle -->
+  <circle cx="128" cy="128" r="112" fill="url(#bg)" stroke="#e67e22" stroke-width="6"/>
+  <!-- Bow arc -->
+  <path d="M 60 40 A 90 100 0 0 0 60 216" fill="none" stroke="#e67e22" stroke-width="8" stroke-linecap="round"/>
+  <!-- Bowstring -->
+  <line x1="128" y1="26" x2="128" y2="230" stroke="#bdc3c7" stroke-width="3" stroke-linecap="round"/>
+  <!-- Arrow shaft -->
+  <line x1="40" y1="200" x2="216" y2="56" stroke="#f1c40f" stroke-width="8" stroke-linecap="round"/>
+  <!-- Arrowhead -->
+  <polygon points="216,56 184,80 196,40" fill="#f1c40f"/>
+  <!-- Fletching -->
+  <polygon points="40,200 68,172 32,164" fill="#e74c3c"/>
+  <polygon points="40,200 68,172 56,212" fill="#e74c3c"/>
+  <!-- Plus sign -->
+  <text x="200" y="160" font-family="Arial, sans-serif" font-size="40" fill="#e67e22" text-anchor="middle" font-weight="bold">+</text>
+</svg>
