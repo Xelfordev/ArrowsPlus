@@ -5,15 +5,7 @@
       <stop offset="100%" stop-color="#b4530a"/>
     </linearGradient>
   </defs>
-  <!-- Outer circle -->
-  <circle cx="128" cy="128" r="120" fill="url(#bg)"/>
-  <!-- Inner circle -->
-  <circle cx="128" cy="128" r="96" fill="#2c3e50"/>
-  <!-- Bold A -->
-  <text x="56" y="148" font-family="Arial Black, Arial, sans-serif" font-size="96" fill="#e67e22" font-weight="900">A</text>
-  <!-- Plus -->
-  <text x="150" y="88" font-family="Arial Black, Arial, sans-serif" font-size="48" fill="#f1c40f" font-weight="900">+</text>
-  <!-- Arrow underline -->
-  <line x1="68" y1="192" x2="180" y2="192" stroke="#f1c40f" stroke-width="6" stroke-linecap="round"/>
-  <polygon points="180,192 164,180 164,204" fill="#f1c40f"/>
+  <circle cx="128" cy="128" r="116" fill="url(#bg)"/>
+  <circle cx="128" cy="128" r="92" fill="#2c3e50"/>
+  <text x="128" y="148" font-family="Arial Black, Arial, sans-serif" font-size="88" fill="#e67e22" text-anchor="middle" font-weight="900">A+</text>
 </svg>
